@@ -38,7 +38,7 @@ Abaixo estão os 10 problemas solucionados neste repositório:
 Para rodar os códigos em sua máquina, siga os passos abaixo:
 
 1.  Faça o download e instale o **Portugol Studio**:
-    * [Link Oficial: http://lite.acad.univali.br/portugol/
+    * Link Oficial: http://lite.acad.univali.br/portugol/
    
 
 2.  Clone este repositório:
